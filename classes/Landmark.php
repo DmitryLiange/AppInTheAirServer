@@ -52,14 +52,9 @@ class Landmark implements JsonSerializable {
         return $this->name;
     }
 
-    public function getX() {
+    public function getCoordinates() {
 
-        return $this->coordinates["x"];
-    }
-
-    public function getY() {
-
-        return $this->coordinates["y"];
+        return $this->coordinates;
     }
 
     public function getDescription() {
@@ -72,10 +67,7 @@ class Landmark implements JsonSerializable {
 
         return array(
             "name" => $this->name,
-            "coordinates" => array(
-                "x" => $this->getX(),
-                "y" => $this->getY(),
-            ),
+            "coordinates" => $this->coordinates,
             "description" => $this->description
         );
     }

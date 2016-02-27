@@ -62,14 +62,9 @@ class City {
         return $this->country;
     }
 
-    public function getX() {
+    public function getCoordinates() {
 
-        return $this->coordinates["x"];
-    }
-
-    public function getY() {
-
-        return $this->coordinates["y"];
+        return $this->coordinates;
     }
 
     public function getCityLandmark() {
