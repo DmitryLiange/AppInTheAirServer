@@ -1,11 +1,14 @@
 <?php
 
+//use computationalGeometry\Point as Point;
+
+
 class Landmark implements JsonSerializable {
 
     private
         $id,
         $name,
-        $coordinates,
+        $coordinatesPoint,
         $description;
 
     public function __construct() {
@@ -37,7 +40,7 @@ class Landmark implements JsonSerializable {
 
         $this->id = (string)$id;
         $this->name = (string)$name;
-        $this->coordinates = $coordinates;
+        $this->coordinatesPoint = Point::withArray($coordinates);
         $this->description = (string)$description;
     }
 
@@ -52,9 +55,9 @@ class Landmark implements JsonSerializable {
         return $this->name;
     }
 
-    public function getCoordinates() {
+    public function getCoordinatesPoint() {
 
-        return $this->coordinates;
+        return $this->$coordinatesPoint;
     }
 
     public function getDescription() {
@@ -67,7 +70,10 @@ class Landmark implements JsonSerializable {
 
         return array(
             "name" => $this->name,
-            "coordinates" => $this->coordinates,
+            "coordinates" => array(
+                "x" => $this->coordinatesPoint->getX(),
+                "y" => $this->coordinatesPoint->getY()
+            ),
             "description" => $this->description
         );
     }

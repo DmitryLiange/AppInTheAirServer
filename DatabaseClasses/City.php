@@ -1,12 +1,13 @@
 <?php
 
+
 class City {
 
     private
         $id,
         $name,
         $country,
-        $coordinates,
+        $coordinatesPoint,
         $cityLandmark;
 
 
@@ -32,7 +33,7 @@ class City {
     protected function loadByID($cityId) {
 
         $cityData = getCityData($cityId);
-        $this->fill($cityData["id"], $cityData["name"], $cityData["country"],$cityData["coordinates"], $cityData["cityLandmarkId"]);
+        $this->fill($cityData["id"], $cityData["name"], $cityData["country"], $cityData["coordinates"], $cityData["cityLandmarkId"]);
     }
 
     protected function fill($id, $name, $country, $coordinates, $cityLandmarkId) {
@@ -40,7 +41,7 @@ class City {
         $this->id = (string)$id;
         $this->name = (string)$name;
         $this->country = (string)$country;
-        $this->coordinates = $coordinates;
+        $this->coordinatesPoint = Point::withArray($coordinates);
 
         $cityLandmark = Landmark::withID($cityLandmarkId);
         $this->cityLandmark = $cityLandmark;
@@ -62,9 +63,9 @@ class City {
         return $this->country;
     }
 
-    public function getCoordinates() {
+    public function getCoordinatesPoint() {
 
-        return $this->coordinates;
+        return $this->$coordinatesPoint;
     }
 
     public function getCityLandmark() {

@@ -25,65 +25,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6415929" vertical-offset="0" max-vertical-offset="678">
-              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="570">
+              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Route.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/Route.php">
+      <file leaf-file-name="computationalGeometryMethods.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ComputationalGeometry/computationalGeometryMethods.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.75" vertical-offset="867" max-vertical-offset="1545">
-              <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+            <state vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="450">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="City.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/City.php">
+        <entry file="file://$PROJECT_DIR$/DatabaseClasses/City.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-41.875" vertical-offset="0" max-vertical-offset="1185">
-              <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+            <state vertical-scroll-proportion="13.125" vertical-offset="345" max-vertical-offset="1200">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routes.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Database/routes.json">
+      <file leaf-file-name="Point.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ComputationalGeometry/Point.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
-              <caret line="0" column="155" selection-start-line="0" selection-start-column="155" selection-end-line="0" selection-end-column="155" />
+            <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="720">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Segment.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ComputationalGeometry/Segment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3318584" vertical-offset="0" max-vertical-offset="765">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Landmark.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classes/Landmark.php">
+        <entry file="file://$PROJECT_DIR$/DatabaseClasses/Landmark.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.875" vertical-offset="357" max-vertical-offset="1185">
-              <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
+            <state vertical-scroll-proportion="-38.75" vertical-offset="0" max-vertical-offset="1275">
+              <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dbMethods.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dbMethods.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.875" vertical-offset="612" max-vertical-offset="1485">
-              <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
-              <folding>
-                <element signature="n#getLandmarkData#0;n#!!top" expanded="false" />
-                <marker date="1456566595000" expanded="true" signature="1788:1945" placeholder="SELECT id, z..prodord_tovtozakaz..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -99,11 +96,20 @@
         <option value="$PROJECT_DIR$/Database/landmarks.json" />
         <option value="$PROJECT_DIR$/Database/cities.json" />
         <option value="$PROJECT_DIR$/Database/routes.json" />
-        <option value="$PROJECT_DIR$/main.php" />
         <option value="$PROJECT_DIR$/dbMethods.php" />
-        <option value="$PROJECT_DIR$/classes/Route.php" />
         <option value="$PROJECT_DIR$/classes/Landmark.php" />
         <option value="$PROJECT_DIR$/classes/City.php" />
+        <option value="$PROJECT_DIR$/classes/Route.php" />
+        <option value="$PROJECT_DIR$/computationalGeometry.php" />
+        <option value="$PROJECT_DIR$/basicClasses/City.php" />
+        <option value="$PROJECT_DIR$/ComputationalGeometry/computationalGeometryMethods.php" />
+        <option value="$PROJECT_DIR$/DatabaseClasses/Route.php" />
+        <option value="$PROJECT_DIR$/ComputationalGeometry/Point.php" />
+        <option value="$PROJECT_DIR$/DatabaseClasses/Point.php" />
+        <option value="$PROJECT_DIR$/DatabaseClasses/City.php" />
+        <option value="$PROJECT_DIR$/DatabaseClasses/Landmark.php" />
+        <option value="$PROJECT_DIR$/main.php" />
+        <option value="$PROJECT_DIR$/ComputationalGeometry/Segment.php" />
       </list>
     </option>
   </component>
@@ -167,6 +173,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="DatabaseClasses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppInTheAirServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appintheairserver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Database" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -181,7 +201,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="classes" />
+              <option name="myItemId" value="ComputationalGeometry" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -201,6 +221,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ComputationalGeometry" />
+      <recent name="$PROJECT_DIR$/DatabaseClasses" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -280,7 +302,9 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -305,11 +329,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Database/cities.json">
+    <entry file="file://$PROJECT_DIR$/dbMethods.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
-          <caret line="0" column="38" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="204" />
-          <folding />
+        <state vertical-scroll-proportion="-8.875" vertical-offset="612" max-vertical-offset="1485">
+          <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
+          <folding>
+            <element signature="n#getLandmarkData#0;n#!!top" expanded="false" />
+            <marker date="1456566595000" expanded="true" signature="-1:-1" placeholder="SELECT id, z..prodord_tovtozakaz..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -321,45 +348,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dbMethods.php">
+    <entry file="file://$PROJECT_DIR$/Database/cities.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.875" vertical-offset="612" max-vertical-offset="1485">
-          <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
-          <folding>
-            <element signature="n#getLandmarkData#0;n#!!top" expanded="false" />
-            <marker date="1456566595000" expanded="true" signature="1788:1945" placeholder="SELECT id, z..prodord_tovtozakaz..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Landmark.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.875" vertical-offset="357" max-vertical-offset="1185">
-          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="678">
+          <caret line="0" column="33" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classes/City.php">
+    <entry file="file://$PROJECT_DIR$/DatabaseClasses/Route.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-41.875" vertical-offset="0" max-vertical-offset="1185">
-          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/Route.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.75" vertical-offset="867" max-vertical-offset="1545">
-          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        <state vertical-scroll-proportion="-40.625" vertical-offset="0" max-vertical-offset="1530">
+          <caret line="65" column="23" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6415929" vertical-offset="0" max-vertical-offset="678">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="570">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComputationalGeometry/computationalGeometryMethods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="450">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseClasses/City.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="13.125" vertical-offset="345" max-vertical-offset="1200">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseClasses/Landmark.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-38.75" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComputationalGeometry/Point.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="720">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ComputationalGeometry/Segment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3318584" vertical-offset="0" max-vertical-offset="765">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding />
         </state>
       </provider>

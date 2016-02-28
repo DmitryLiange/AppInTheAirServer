@@ -67,7 +67,6 @@ class Route implements JsonSerializable {
     }
 
 
-
     public function getId() {
 
         return $this->id;
@@ -92,7 +91,7 @@ class Route implements JsonSerializable {
     function jsonSerialize() {
 
         return array(
-            "landmarksToPrint" => $this->landmarksToPrint
+            "landmarksToShow" => $this->landmarksToPrint
         );
     }
 }

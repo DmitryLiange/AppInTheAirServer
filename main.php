@@ -2,9 +2,11 @@
 
 require_once("dbMethods.php");
 
-require_once("classes/Landmark.php");
-require_once("classes/City.php");
-require_once("classes/Route.php");
+require_once("ComputationalGeometry/Point.php");
+
+require_once("DatabaseClasses/Landmark.php");
+require_once("DatabaseClasses/City.php");
+require_once("DatabaseClasses/Route.php");
 
 
 //if (isset($_POST["routeId"]) && isset($_POST["requiredLandmarksNumber"])) {
