@@ -60,10 +60,11 @@ class Route implements JsonSerializable {
     public function setRequiredLandmarksNumber($requiredLandmarksNumber) {
 
         // TODO комменты
-        $requiredLandmarksNumber = ($requiredLandmarksNumber < 10) ? 2 :
+        $requiredLandmarksNumber = ($requiredLandmarksNumber < 0) ? 5 :
             (($requiredLandmarksNumber > 10) ? 10 : $requiredLandmarksNumber);
 
-        $this->landmarksToPrint= array_slice($this->landmarks, 0, $requiredLandmarksNumber);
+        $this->landmarksToPrint = array_slice($this->landmarks, 0, $requiredLandmarksNumber - 1);
+        array_push($this->landmarksToPrint, $this->landmarks[9]);
     }
 
 
