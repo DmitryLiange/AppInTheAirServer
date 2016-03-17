@@ -1,1 +1,12 @@
-{"1":{"id":1,"name":"Doha landmark","coordinates":{"x":1.2, "y":1.3},"description":"description Doha"},"2":{"id":2,"name":"Los Angeles landmark","coordinates":{"x":1.2, "y":1.3},"description":"description Los"}}
+{
+  "1":{"id":1,"name":"Doha","coordinates":{"x":25.3042475, "y":51.3893706},"description":"Doha is the capital city and most populous city of the State of Qatar"},
+  "2":{"id":2,"name":"Hofuf","coordinates":{"x":25.30597, "y":49.4732255},"description":"Al-Hofuf is the major urban center in the Al-Ahsa Oasis in the Eastern Province of Saudi Arabia"},
+  "3":{"id":3,"name":"Gassim","coordinates":{"x":26.3014733, "y":43.7749442},"description":"Gassim airport, also known as Prince Nayef bin Abdulaziz Regional Airport"},
+  "4":{"id":4,"name":"Luxor","coordinates":{"x":25.6950143, "y":32.6244473},"description":"Luxor is a city in Upper (southern) Egypt and the capital of Luxor Governorate"},
+  "5":{"id":5,"name":"Agadir","coordinates":{"x":30.4198763, "y":-9.6477167},"description":"Agadir is a major city in Morocco, located on the shore of the Atlantic Ocean, near the foot of the Atlas Mountains"},
+  "6":{"id":6,"name":"Atlanta","coordinates":{"x":33.7679192, "y":-84.5606912},"description":"Atlanta is the capital of and the most populous city in the U.S. state of Georgia, with an estimated 2013 population of 447,841"},
+  "7":{"id":7,"name":"Dallas","coordinates":{"x":32.8209296, "y":-97.0115378},"description":"Dallas is a major city in the state of Texas and is the largest urban center of the fourth most populous metropolitan area in the United States"},
+  "8":{"id":8,"name":"Albuquerque","coordinates":{"x":35.0826103, "y":-106.8165665},"description":"Albuquerque is the most populous city in the U.S. state of New Mexico"},
+  "9":{"id":9,"name":"Phoenix","coordinates":{"x":33.6056711, "y":-112.4052488},"description":"Phoenix is the capital, and largest city, of the U.S. state of Arizona"},
+  "10":{"id":10,"name":"Los Angeles","coordinates":{"x":34.0207504, "y":-118.6919301},"description":"Los Angeles is the second-largest city in the United States, known as a major center of the American entertainment industry"}
+}

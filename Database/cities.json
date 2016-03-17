@@ -1,1 +1,12 @@
-{"1":{"id":1,"name":"Doha","country":"Qatar","coordinates":{"x":1.2, "y":1.3},"cityLandmarkId":"1"},"2":{"id":2,"name":"Los Angeles","country":"USA","coordinates":{"x":1.2, "y":1.3},"cityLandmarkId":"2"}}
+{
+  "1":{"id":1,"name":"Doha","country":"Qatar","coordinates":{"x":25.3042475, "y":51.3893706},"cityLandmarkId":"1"},
+  "2":{"id":2,"name":"Hofuf","country":"Saudi Arabia","coordinates":{"x":25.30597, "y":49.4732255},"cityLandmarkId":"2"},
+  "3":{"id":3,"name":"Buraidah","country":"Saudi Arabia","coordinates":{"x":26.3479206, "y":43.7833376},"cityLandmarkId":"3"},
+  "4":{"id":4,"name":"Luxor","country":"Egypt","coordinates":{"x":25.6950143, "y":32.6244473},"cityLandmarkId":"4"},
+  "5":{"id":5,"name":"Agadir","country":"Morocco","coordinates":{"x":30.4198763, "y":-9.6477167},"cityLandmarkId":"5"},
+  "6":{"id":6,"name":"Atlanta","country":"USA","coordinates":{"x":33.7679192, "y":-84.5606912},"cityLandmarkId":"6"},
+  "7":{"id":7,"name":"Dallas","country":"USA","coordinates":{"x":32.8209296, "y":-97.0115378},"cityLandmarkId":"7"},
+  "8":{"id":8,"name":"Albuquerque","country":"USA","coordinates":{"x":35.0826103, "y":-106.8165665},"cityLandmarkId":"8"},
+  "9":{"id":9,"name":"Phoenix","country":"USA","coordinates":{"x":33.6056711, "y":-112.4052488},"cityLandmarkId":"9"},
+  "10":{"id":10,"name":"Los Angeles","country":"USA","coordinates":{"x":34.0207504, "y":-118.6919301},"cityLandmarkId":"10"}
+}
